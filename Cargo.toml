@@ -1,0 +1,12 @@
+[package]
+name = "social_choice_theory"
+version = "0.1.0"
+authors = ["Samuel Batissou <samuelbatissou@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+ndarray= "0.13.0"
+arrayvec = "0.5.1"
+itertools = "0.8.2"
+sugars = "1.0.0"
